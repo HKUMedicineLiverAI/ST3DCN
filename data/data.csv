@@ -1,0 +1,10 @@
+./data/mask/ID_0848_P3_0.npy,./data/image/ID_0848_P3_0.npy,1
+./data/mask/ID_0848_P3_1.npy,./data/image/ID_0848_P3_1.npy,1
+./data/mask/ID_0848_P2_0.npy,./data/image/ID_0848_P2_0.npy,1
+./data/mask/ID_0848_P2_1.npy,./data/image/ID_0848_P2_1.npy,1
+./data/mask/QEH032_P2_0.npy,./data/image/QEH032_P2_0.npy,0
+./data/mask/QEH032_P2_1.npy,./data/image/QEH032_P2_1.npy,0
+./data/mask/QEH032_P2_2.npy,./data/image/QEH032_P2_2.npy,0
+./data/mask/QEH032_P3_0.npy,./data/image/QEH032_P3_0.npy,0
+./data/mask/QEH032_P3_1.npy,./data/image/QEH032_P3_1.npy,0
+./data/mask/QEH032_P3_2.npy,./data/image/QEH032_P3_2.npy,0

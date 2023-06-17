@@ -1,0 +1,4 @@
+./data/mask/ID_0848_P3.nii.gz,./data/image/ID_0848_P3,1,1,0,1
+./data/mask/ID_0848_P2.nii.gz,./data/image/ID_0848_P2,1,1,0,1
+./data/mask/QEH032_P3.nii.gz,./data/image/QEH032_P3,0,0,0,0
+./data/mask/QEH032_P2.nii.gz,./data/image/QEH032_P2,0,0,0,0
