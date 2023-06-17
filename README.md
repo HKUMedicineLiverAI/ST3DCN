@@ -52,6 +52,7 @@ image_mask_files1[:,:]
 ```
 ## predict HCC or non-HCC for a patient
 id_lis, label_lis, predict_lis = predict_patient(model, image_mask_files, image_mask_files1)
+print('id','label','predict')
 for i in range(len(id_lis)):
     print(id_lis[i],label_lis[i],predict_lis[i] )
     
@@ -59,19 +60,25 @@ for i in range(len(id_lis)):
 1/1 [==============================] - 0s 31ms/step
 
 ID_0848 1 0.8930234313011169
+
 QEH032 0 0.1020175920566544
 
 ```
 # predict HCC or non-HCC for a lesion
 id_lis, label_lis, predict_lis = predict_lesion(model, image_mask_files, image_mask_files1)
+print('id','label','predict')
 for i in range(len(id_lis)):
     print(id_lis[i],label_lis[i],predict_lis[i] )
 ```
 1/1 [==============================] - 0s 34ms/step
 
 ID_0848_0 1 0.9005912
+
 ID_0848_1 1 0.8816718
+
 QEH032_0 0 0.0059577017
+
 QEH032_1 0 0.23815411
+
 QEH032_2 0 0.15053022
 
