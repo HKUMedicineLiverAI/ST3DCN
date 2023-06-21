@@ -7,6 +7,8 @@ This project is based on Keras + Tensorflow, deployed on the platform with Cento
 The version of Keras (https://keras.io/getting_started/) is 2.11.0, the version of tensorflow-gpu (https://www.tensorflow.org/) is 2.11.0. 
 To ensure the successful utilization of GPU computation power, one should install the correct version of GPU driver library first. As for us, the version of cudnn is 8.1.0.77 and the version of cudatoolkit is 11.2.2. One can install tensorflow-gpu and Keras under conda envirnment. Packages of numpy, scipy, panda, opencv, pillow, pydicom, etc, should be installed also. 
 
+For CT iamge files and model weights with size bigger than the limit of github, we put the files in google dirve with link below: https://drive.google.com/drive/folders/186cSBFdz-CRJrgtUnmC4O6PZgoCUL0uK, please put the files in the corresponding directories.
+
 # Demon
 ```
 from utils import *
